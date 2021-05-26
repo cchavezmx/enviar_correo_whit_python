@@ -99,7 +99,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTACT -->
 ## Contact
-Contactame en: cchavez@outlook.com
+Contactame en: cchavezmx@outlook.com
 
 ultimo Proyecto mas activo: [ITAMX - ecommerce](https://itamx.com)
 
