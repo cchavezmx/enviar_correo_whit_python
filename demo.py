@@ -49,7 +49,7 @@ sesion_smtp = smtplib.SMTP('smtp.gmail.com', 587)
 sesion_smtp.starttls()
   
 # Iniciamos sesión en el servidor
-sesion_smtp.login()
+sesion_smtp.login('micorreo@correo.com','password')
 
 # Convertimos el objeto mensaje a texto
 texto = mensaje.as_string()
